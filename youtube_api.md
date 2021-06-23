@@ -34,8 +34,8 @@
     ![Consent Screen App Info 2](captures/8.png)
 
 9. For the **Scopes** page and **Test users** page, just click **SAVE AND CONTINUE**.
-
-![Scopes and Test Users Continue](captures/9.png)
+    
+    ![Scopes and Test Users Continue](captures/9.png)
 
     ![Scopes and Test Users Continue](captures/10.png)
 
@@ -46,7 +46,7 @@
 11. On the credentials page, click **CREATE CREDENTIALS** and select **API key**.
     - You have now generated the API key you should place in the **DEVELOPER KEY** variable found in [config.py](https://github.com/WilsonMJ/CopyTube/blob/b7a1583398081e6bd9ed6d04eb03f0fc0492780d/config.py)
 
-![Generate API key](captures/12.png)
+    ![Generate API key](captures/12.png)
 
     ![API Key info](captures/13.png)
 
