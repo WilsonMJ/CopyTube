@@ -12,13 +12,13 @@ The script was created using Python and YouTube's Data V3 API.
 - Python 3.6+
 - Pip
 - YouTube API key and client_secrets file
-    - Walkthrough for obtaining these credentials can be found [here](https://github.com/WilsonMJ/CopyTube/blob/30a3bb175067a7f6b95845605d051d758b95055f/youtube_api.md)
+    - Walkthrough for obtaining these credentials can be found [here](youtube_api.md)
 - Google account
 
 # Configuration
 
-1. Add API key and client_secrets filename to [config.py](https://github.com/WilsonMJ/CopyTube/blob/b7a1583398081e6bd9ed6d04eb03f0fc0492780d/config.py)
-    - client_secrets file should be in the same directory as [copytube.py](https://github.com/WilsonMJ/CopyTube/blob/b7a1583398081e6bd9ed6d04eb03f0fc0492780d/copytube.py)
+1. Add API key and client_secrets filename to [config.py](config.py)
+    - client_secrets file should be in the same directory as [copytube.py](copytube.py)
 
     ![config.py configuration](captures/18.png)
 

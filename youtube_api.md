@@ -44,7 +44,7 @@
     ![OAuth Summary](captures/11.png)
 
 11. On the credentials page, click **CREATE CREDENTIALS** and select **API key**.
-    - You have now generated the API key you should place in the **DEVELOPER KEY** variable found in [config.py](https://github.com/WilsonMJ/CopyTube/blob/b7a1583398081e6bd9ed6d04eb03f0fc0492780d/config.py)
+    - You have now generated the API key you should place in the **DEVELOPER KEY** variable found in [config.py](config.py)
 
     ![Generate API key](/captures/12.png)
 
@@ -58,8 +58,8 @@
 
     ![OAuth App type](captures/15.png)
 
-14. Click **OK** on the screen that appears and click on the Download icon next to the newly created OAuth 2.0 Client ID.  Save this file into the same directory as [copytube.py](https://github.com/WilsonMJ/CopyTube/blob/b7a1583398081e6bd9ed6d04eb03f0fc0492780d/copytube.py).
-    - Add the name of this file including .json to the **CLIENT_SECRETS_FILE** variable found in [config.py](https://github.com/WilsonMJ/CopyTube/blob/b7a1583398081e6bd9ed6d04eb03f0fc0492780d/config.py)
+14. Click **OK** on the screen that appears and click on the Download icon next to the newly created OAuth 2.0 Client ID.  Save this file into the same directory as [copytube.py](copytube.py).
+    - Add the name of this file including .json to the **CLIENT_SECRETS_FILE** variable found in [config.py](config.py)
 
     ![OAuth Confirmation](captures/16.png)
 
