@@ -12,7 +12,7 @@ The script was created using Python and YouTube's Data V3 API.
 - Python 3.6+
 - Pip
 - YouTube API key and client_secrets file
-    - Walkthrough for obtaining these credentials can be found [here]()
+    - Walkthrough for obtaining these credentials can be found [here](https://github.com/WilsonMJ/CopyTube/blob/30a3bb175067a7f6b95845605d051d758b95055f/youtube_api.md)
 - Google account
 
 # Configuration
