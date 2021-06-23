@@ -17,8 +17,8 @@ The script was created using Python and YouTube's Data V3 API.
 
 # Configuration
 
-1. Add API key and client_secrets filename to [config.py]()
-    - client_secrets file should be in the same directory as [copytube.py]()
+1. Add API key and client_secrets filename to [config.py](https://github.com/WilsonMJ/CopyTube/blob/b7a1583398081e6bd9ed6d04eb03f0fc0492780d/config.py)
+    - client_secrets file should be in the same directory as [copytube.py](https://github.com/WilsonMJ/CopyTube/blob/b7a1583398081e6bd9ed6d04eb03f0fc0492780d/copytube.py)
 
     ![config.py configuration](captures/18.png)
 
