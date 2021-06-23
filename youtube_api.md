@@ -37,7 +37,7 @@
     
     ![Scopes and Test Users Continue](captures/9.png)
 
-    ![Scopes and Test Users Continue](captures/10.png)
+    ![Scopes and Test Users Continue 2](/captures/10.png)
 
 10. You will then arrive at the **OAuth consent screen** summary page. From here, click **Credentials**.
 
@@ -46,9 +46,9 @@
 11. On the credentials page, click **CREATE CREDENTIALS** and select **API key**.
     - You have now generated the API key you should place in the **DEVELOPER KEY** variable found in [config.py](https://github.com/WilsonMJ/CopyTube/blob/b7a1583398081e6bd9ed6d04eb03f0fc0492780d/config.py)
 
-    ![Generate API key](captures/12.png)
+    ![Generate API key](/captures/12.png)
 
-    ![API Key info](captures/13.png)
+    ![API Key info](/captures/13.png)
 
 12. Click **CREATE CREDENTIALS** again and select **OAuth client ID**.
 
